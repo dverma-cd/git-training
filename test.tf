@@ -18,5 +18,5 @@ module "resource_group" {
   name        = local.name
   environment = local.environment
   label_order = local.label_order
-  location    = "northeurope"
+  location    = "ukwest"
 }
